@@ -9,7 +9,9 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="25619588" data-share-method="host" data-aspect-ratio="1.60804" data-width="100%"><a href="https://tenor.com/view/chill-boi-gif-25619588">Chill Boi GIF</a>from <a href="https://tenor.com/search/chill+boi-gifs">Chill Boi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="25619588" data-share-method="host" data-aspect-ratio="1.60804" data-width="100%">
+  <a href="https://tenor.com/view/chill-boi-gif-25619588">Chill Boi GIF</a>from <a href="https://tenor.com/search/chill+boi-gifs">Chill Boi GIFs</a>
+</div>
 
 ###
 
