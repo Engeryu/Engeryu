@@ -37,4 +37,4 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 - [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/angel-gaspard-fauvelle-631111122/)
 - ![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge) `engeryu` *(Click to copy manually)*
 - [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:angel.proworkspace@gmail.com)  
-- - **More to come... Stay tuned!** 🚀  
+- **More to come... Stay tuned!** 🚀  
