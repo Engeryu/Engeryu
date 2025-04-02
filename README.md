@@ -20,7 +20,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 |-----------------------|-----------------------------------|----------------------------|---------------|--------|
 | **Web**              | • Python  <br> • JavaScript  <br> • PHP  <br> • HTML5/CSS3/SASS  <br> • MySQL | • FileZilla  <br> • NPM  <br> • Nginx  <br> • Apache  <br> • AWS  <br> • Docker | • Symfony  <br> • Laravel  <br> • Django  <br> • Node.js  <br> • Express  <br> • Vue.js  <br> • React.js  <br> • Angular  <br> | • WordPress |
 | **Software**         | • C  <br> • C++  <br> • Java  <br> • Scala | - | - | - |
-| **Data Viz**         | • | • Power B.I  <br> • Tableau Software  <br> • Excel | - | • Power Query  <br> • Power Pivot |
+| **Data Viz**         | - | • Power B.I  <br> • Tableau Software  <br> • Excel | - | • Power Query  <br> • Power Pivot |
 | **Data Science**     | • Python  <br> • Java  <br> • MySQL  <br> • R  <br> • Julia  <br> • Scala | • Jupyter  <br> • MongoDB  <br> • PostgreSQL  <br> • Redis  <br> • GCP  <br> • Docker  <br> • Cassandra  <br> • Airflow  <br> • Neo4J  <br> • DuckDB | - | • Pandas  <br> • NumPy  <br> • Plotly.Express  <br> • Scipy  <br> • Py(Spark)  <br> • Scikit-Learn  <br> • math |
 | **AI/ML**            | • Python  <br> • Java  <br> • Julia | • Jupyter  <br> • TensorFlow  <br> • PyTorch | • Scikit-Learn  <br> • Keras | • Numpy  <br> • Scipy  <br> • math |
 
