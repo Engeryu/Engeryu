@@ -154,6 +154,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Engeryu/Engeryu/output/snake.svg" alt="Snake animation" />
-
-###
