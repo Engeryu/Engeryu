@@ -18,11 +18,11 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 | Domain ⬇ / Category ➡ | **Most Used Programming Languages** | **Platforms & Technologies** | **Frameworks & Tools** |
 |-----------------------|-----------------------------------|----------------------------|------------------------|
-| **Web**              | Python, JavaScript, PHP, HTML5/CSS3/SASS, MySQL | FileZilla, NPM, Nginx, Apache, AWS, Docker | Symfony, Laravel, DjangoNode.js, Express, Vue.js, React.js, Angular, Next.js, Nest.js, WordPress |
-| **Software**         | C, C++, Java, Scala | - | - |
-| **Data Viz**         | - | Power B.I, Tableau Software, Excel | Power Query, Power Pivot |
-| **Data Science**     | Python, Java, MySQL, R, Julia, Scala | Jupyter, MongoDB, PostgreSQL, Redis, GCP, Docker, Cassandra, Airflow, Neo4J, DuckDB | Pandas, NumPy, Plotly.Express, Scipy, Py(Spark), Scikit-Learn, math |
-| **AI/ML**            | Python, Java, Julia | Jupyter, TensorFlow, PyTorch | Scikit-Learn, Keras, Numpy, Scipy, math |
+| **Web**              | - Python  <br> - JavaScript  <br> - PHP  <br> - HTML5/CSS3/SASS  <br> - MySQL | - FileZilla  <br> - NPM  <br> - Nginx  <br> - Apache  <br> - AWS  <br> - Docker | - Symfony  <br> - Laravel  <br> - Django  <br> - Node.js  <br> - Express  <br> - Vue.js  <br> - React.js  <br> - Angular  <br> - Next.js  <br> - Nest.js  <br> - WordPress |
+| **Software**         | - C  <br> - C++  <br> - Java  <br> - Scala | - | - |
+| **Data Viz**         | - | - Power B.I  <br> - Tableau Software  <br> - Excel | - Power Query  <br> - Power Pivot |
+| **Data Science**     | - Python  <br> - Java  <br> - MySQL  <br> - R  <br> - Julia  <br> - Scala | - Jupyter  <br> - MongoDB  <br> - PostgreSQL  <br> - Redis  <br> - GCP  <br> - Docker  <br> - Cassandra  <br> - Airflow  <br> - Neo4J  <br> - DuckDB | - Pandas  <br> - NumPy  <br> - Plotly.Express  <br> - Scipy  <br> - Py(Spark)  <br> - Scikit-Learn  <br> - math |
+| **AI/ML**            | - Python  <br> - Java  <br> - Julia | - Jupyter  <br> - TensorFlow  <br> - PyTorch | - Scikit-Learn  <br> - Keras  <br> - Numpy  <br> - Scipy  <br> - math |
 
 ---
 
