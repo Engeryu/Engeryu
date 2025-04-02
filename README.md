@@ -33,8 +33,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 ## 📫 Let's Connect!
 - **GitHub:** [Engeryu](https://github.com/Engeryu)
-- **Discord:**  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo" />  `engeryu` *(Click to copy manually)*
+- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo" />  `engeryu` *(Click to copy manually)*
 - **More to come... Stay tuned!** 🚀
 
 ###
@@ -46,7 +45,5 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
   <a href="https://www.linkedin.com/in/angel-gaspard-fauvelle-631111122/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a>
-    <img src="" height="35" alt="Github Logo" />
-  </a>
+  [![GitHub Profile](https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engeryu)
 </div>
