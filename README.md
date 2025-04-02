@@ -9,12 +9,12 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 ## 🛠️ Tech Stack & Skills
 
-### 🌍 Global Development Environments
+### 💻 Global Development Environments
 - **Operating Systems:** Windows, Linux (Debian)  
 - **Development Tools:** VS Code, Git  
 - **Shell Scripting:** Bash  
 
-### 📌 Domain-Specific Technologies
+### 🧠 Domain-Specific Technologies
 
 | Domain ⬇ / Category ➡ | **Most Used Programming Languages** | **Platforms & Technologies** | **Frameworks & Tools** |
 |-----------------------|-----------------------------------|----------------------------|------------------------|
