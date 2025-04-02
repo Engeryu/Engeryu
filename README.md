@@ -34,8 +34,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 ## 📫 Let's Connect!
 - **GitHub:** [Engeryu](https://github.com/Engeryu)
 - **Discord:**  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo" />  
-  `TonPseudo#1234` *(Click to copy manually)*
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord Logo" />  `engeryu` *(Click to copy manually)*
 - **More to come... Stay tuned!** 🚀
 
 ###
