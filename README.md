@@ -26,7 +26,8 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 ---
 
 ## 📫 Let's Connect!
-- **GitHub:** [Engeryu](https://github.com/Engeryu)  
+- **GitHub:** [Engeryu](https://github.com/Engeryu)
+- **Discord** Engeryu
 - **More to come... Stay tuned!** 🚀
 
 ###
