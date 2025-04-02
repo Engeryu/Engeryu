@@ -150,7 +150,4 @@
 
 ###
 
-<br clear="both">
-###
-
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2bXhleWd3ZnI2ZG85OG1pdWsxczBlN3A4cjJkamFqM3VrandrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msKpjMkr3sbAcb16H7/giphy.gif"  />
