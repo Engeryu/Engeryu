@@ -21,8 +21,8 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 | **Web**              | JavaScript, PHP, HTML5/CSS3/SASS, MySQL | FileZilla, NPM, Nginx, Apache, AWS, Docker | Symfony, Laravel, DjangoNode.js, Express, Vue.js, React.js, Angular, Next.js, Nest.js, WordPress |
 | **Software**         | C, C++, Java, Scala | - | - |
 | **Data Viz**         | - | Power B.I, Tableau Software, Excel | Power Query, Power Pivot |
-| **Data Science**     | Python, Java, MySQL, R, Julia, Scala | Jupyter, MongoDB, PostgreSQL, Redis, GCP, Docker, Cassandra, Airflow, Neo4J, DuckDB | Pandas, NumPy, Plotly.Express, SciPy, Py(Spark), Scikit-Learn |
-| **AI/ML**            | Python, Java, Julia | Jupyter, TensorFlow, PyTorch | Scikit-Learn, Keras |
+| **Data Science**     | Python, Java, MySQL, R, Julia, Scala | Jupyter, MongoDB, PostgreSQL, Redis, GCP, Docker, Cassandra, Airflow, Neo4J, DuckDB | Pandas, NumPy, Plotly.Express, Scipy, Py(Spark), Scikit-Learn, math |
+| **AI/ML**            | Python, Java, Julia | Jupyter, TensorFlow, PyTorch | Scikit-Learn, Keras, Numpy, Scipy, math |
 
 ---
 
