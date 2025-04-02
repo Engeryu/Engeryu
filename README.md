@@ -18,8 +18,8 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 | Domain ⬇ / Category ➡ | **Most Used Programming Languages** | **Platforms & Technologies** | **Frameworks & Tools** |
 |-----------------------|-----------------------------------|----------------------------|------------------------|
-| **Web**              | JavaScript, PHP, HTML5/CSS3/SASS, MySQL | Nginx, Apache, AWS        | Node.js, Express, Vue.js, React.js, Angular, Next.js, Nest.js, WordPress |
-| **Software**         | C, C++, Java, Scala              | Docker                     | FileZilla, NPM, Symfony, Laravel |
+| **Web**              | JavaScript, PHP, HTML5/CSS3/SASS, MySQL | FileZilla, NPM, Nginx, Apache, AWS        | Symfony, Laravel, DjangoNode.js, Express, Vue.js, React.js, Angular, Next.js, Nest.js, WordPress |
+| **Software**         | C, C++, Java, Scala              | Docker                     | - |
 | **Data Science**     | Python, Java, MySQL, R, Julia, Scala | MongoDB, PostgreSQL, Redis, GCP | Pandas, NumPy, Matplotlib |
 | **AI/ML**           | Python, Java, Julia              | TensorFlow, PyTorch        | Scikit-Learn, Keras, Neo4j, Cassandra |
 
