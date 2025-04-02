@@ -12,15 +12,16 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 ### 🌍 Global Development Environments
 - **Operating Systems:** Windows, Linux (Debian)  
 - **Development Tools:** VS Code, Git  
+- **Shell Scripting:** Bash  
 
 ### 📌 Domain-Specific Technologies
 
 | Domain ⬇ / Category ➡ | **Most Used Programming Languages** | **Platforms & Technologies** | **Frameworks & Tools** | **Other Languages I Know** |
 |-----------------------|-----------------------------------|----------------------------|------------------------|---------------------------|
-| **Web**              | JavaScript, PHP, HTML5/CSS3/SASS | Nginx, Apache, AWS        | Node.js, Express, Vue.js, React.js, Angular, Next.js, Nest.js, WordPress | - |
-| **Software**         | C, C++, Java, Bash               | Docker                     | FileZilla, NPM, Symfony, Laravel | Julia, Scala |
-| **Data Science**     | Python, MySQL, R                 | MongoDB, PostgreSQL, Redis, GCP | Pandas, NumPy, Matplotlib | - |
-| **AI/ML**           | Python                            | TensorFlow, PyTorch        | Scikit-Learn, Keras, Neo4j, Cassandra | - |
+| **Web**              | JavaScript, PHP, HTML5/CSS3/SASS, MySQL | Nginx, Apache, AWS        | Node.js, Express, Vue.js, React.js, Angular, Next.js, Nest.js, WordPress | - |
+| **Software**         | C, C++, Java                      | Docker                     | FileZilla, NPM, Symfony, Laravel | - |
+| **Data Science**     | Python, Java, MySQL, R           | MongoDB, PostgreSQL, Redis, GCP | Pandas, NumPy, Matplotlib | Julia, Scala |
+| **AI/ML**           | Python, Java                      | TensorFlow, PyTorch        | Scikit-Learn, Keras, Neo4j, Cassandra | Julia |
 
 ---
 
