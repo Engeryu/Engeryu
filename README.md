@@ -27,6 +27,8 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Engeryu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150", width="450" alt="languages graph"  />
 </div>
 
+![Chill Boy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2bXhleWd3ZnI2ZG85OG1pdWsxczBlN3A4cjJkamFqM3VrandrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msKpjMkr3sbAcb16H7/giphy.gif)
+
 ## 📫 Let's Connect!
 
 - [![GitHub Profile](https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engeryu) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/angel-gaspard-fauvelle-631111122/) [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:angel.proworkspace@gmail.com)
