@@ -18,7 +18,19 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) | ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge) ![YAML](https://img.shields.io/badge/YAML-CA2322?logo=yaml&logoColor=white&style=for-the-badge) | ![Plotly](https://img.shields.io/badge/Plotly-3E4A4F?logo=plotly&logoColor=white&style=for-the-badge) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge) | ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge) |
 
 ---
+## 📊 GitHub Stats:
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;" />
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
 
+---
 ## 📫 Let's Connect!
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -49,19 +61,6 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 </table>
 
 ---
-
-## 📊 GitHub Stats:
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;" />
-    </td>
-    <td style="width: 50%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Engeryu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
