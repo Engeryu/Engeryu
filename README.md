@@ -24,7 +24,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
     <td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;" />
     </td>
-    <td style="text-align: center;">
+    <td style="width: 70%; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
     </td>
   </tr>
