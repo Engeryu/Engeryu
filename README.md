@@ -15,6 +15,12 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 - **Shell Scripting:** Bash  
 
 ### 🧠 Domain-Specific Technologies
+| **Most Used Programming Languages**                                     |
+| ------------------------------------------------------------------------ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) |
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge) |
+| ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge) |
+| ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white&style=for-the-badge) |
 
 <div style="display: flex; justify-content: space-between;">
 
