@@ -29,7 +29,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 ## 📫 Let's Connect!
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table style="border: none; width: 100%;">
   <tr>
     <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
       <a href="https://github.com/Engeryu">
