@@ -49,6 +49,6 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 300px; border-radius: 10px;" />
+    <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 250px; border-radius: 10px;" />
   </div>
 </div>
