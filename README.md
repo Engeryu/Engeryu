@@ -31,7 +31,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px;">
+    <td style="text-align: left; vertical-align: top; width: 70%;">
       <a href="https://github.com/Engeryu">
         <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
@@ -49,8 +49,8 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
       <br />
       <bold>More to come... Stay tuned!</bold> 🚀
     </td>
-    <td style="text-align: right; vertical-align: top; border: none;">
-      <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 300px; border-radius: 10px;" />
+    <td style="text-align: right; vertical-align: top; width: 30%;">
+      <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
     </td>
   </tr>
 </table>
