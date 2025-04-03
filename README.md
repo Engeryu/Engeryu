@@ -51,8 +51,16 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;" />
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Engeryu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
