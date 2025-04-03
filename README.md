@@ -29,9 +29,9 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 ## 📫 Let's Connect!
 
-<table style="border: none; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+    <td style="text-align: left; vertical-align: top; padding-right: 20px;">
       <a href="https://github.com/Engeryu">
         <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
