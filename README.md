@@ -46,9 +46,9 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
       <br />
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
       <br />
-      `engeryu` *(Click to copy manually)*
+      <i>engeryu</i> <bold>(Click to copy manually)</bold>
       <br />
-      **More to come... Stay tuned!** 🚀
+      <bold>More to come... Stay tuned!</bold> 🚀
     </td>
     <td style="text-align: right; vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 300px; border-radius: 10px;" />
