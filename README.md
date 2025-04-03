@@ -19,7 +19,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 ---
 ## 📊 GitHub Stats:
-<table style="width: 100%; border-collapse: collapse; horizontal-align: center">
+<table style="width: 100%; border-collapse: collapse; align: center">
   <tr>
     <td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;" />
