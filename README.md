@@ -51,7 +51,6 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
       <br />
       <bold>More to come... Stay tuned!</bold> 🚀
     </td>
-
     <!-- Deuxième colonne : GIF -->
     <td style="width: 30%; text-align: right; vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
