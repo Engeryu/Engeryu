@@ -29,9 +29,7 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 ###
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2bXhleWd3ZnI2ZG85OG1pdWsxczBlN3A4cjJkamFqM3VrandrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msKpjMkr3sbAcb16H7/giphy.gif" width="300" alt="Chill Boy" />
-</div>
+![Chill_Boy](https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772)
 
 ## 📫 Let's Connect!
 
