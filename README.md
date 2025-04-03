@@ -29,25 +29,28 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 
 ## 📫 Let's Connect!
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
+    <td style="text-align: left; vertical-align: top; padding-right: 20px;">
       <a href="https://github.com/Engeryu">
         <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
+      <br />
       <a href="https://www.linkedin.com/in/angel-gaspard-fauvelle-631111122/">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
       </a>
+      <br />
       <a href="mailto:angel.proworkspace@gmail.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
       </a>
       <br />
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
+      <br />
       `engeryu` *(Click to copy manually)*
       <br />
       **More to come... Stay tuned!** 🚀
     </td>
-    <td>
+    <td style="text-align: right; vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 300px; border-radius: 10px;" />
     </td>
   </tr>
