@@ -27,14 +27,28 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Engeryu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150", width="450" alt="languages graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" />
-</div>
-
 ## 📫 Let's Connect!
 
-- [![GitHub Profile](https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Engeryu) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/angel-gaspard-fauvelle-631111122/) [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:angel.proworkspace@gmail.com)
-- ![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge) `engeryu` *(Click to copy manually)*
-- **More to come... Stay tuned!** 🚀  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>
+      <a href="https://github.com/Engeryu">
+        <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+      </a>
+      <a href="https://www.linkedin.com/in/angel-gaspard-fauvelle-631111122/">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+      </a>
+      <a href="mailto:angel.proworkspace@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
+      </a>
+      <br />
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
+      `engeryu` *(Click to copy manually)*
+      <br />
+      **More to come... Stay tuned!** 🚀
+    </p>
+  </div>
+  <div>
+    <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 250px; border-radius: 10px;" />
+  </div>
+</div>
