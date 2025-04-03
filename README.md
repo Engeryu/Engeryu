@@ -61,8 +61,10 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
 </table>
 
 ---
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Engeryu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Profile Trophy
+<div style="width: 100%; text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Engeryu&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy" style="width: 100%;" />
+</div>
 
 #### 🔝 Top Contributed Repo
 <table style="width: 100%; border-collapse: collapse;">
