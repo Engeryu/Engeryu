@@ -27,7 +27,11 @@ My goal is to explore and push the boundaries of AI, leveraging data to create i
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Engeryu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150", width="450" alt="languages graph"  />
 </div>
 
-![Chill Boy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2bXhleWd3ZnI2ZG85OG1pdWsxczBlN3A4cjJkamFqM3VrandrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msKpjMkr3sbAcb16H7/giphy.gif)
+###
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2bXhleWd3ZnI2ZG85OG1pdWsxczBlN3A4cjJkamFqM3VrandrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/msKpjMkr3sbAcb16H7/giphy.gif" width="300" alt="Chill Boy" />
+</div>
 
 ## 📫 Let's Connect!
 
