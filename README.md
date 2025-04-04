@@ -1,6 +1,7 @@
-<div style="border: 2px solid #2a2c2e; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+<div style="border: 2px solid #2a2c2e; border-radius: 10px; padding: 20px; background: linear-gradient(90deg, #0d1117, #2a2c2e); color: white;">
   <h1 style="color: white;">👋 Hi, I'm Engeryu!</h1>
-  <p style="color: white;">I am deeply passionate about science and technology, with a strong dedication to Data Science, particularly in the fields of Artificial Intelligence and Machine Learning research. My goal is to explore and push the boundaries of AI, leveraging data to create innovative and impactful solutions.</p>
+  <p style="color: white;">I am deeply passionate about science and technology, with a strong dedication to Data Science, particularly in the fields of Artificial Intelligence and Machine Learning research.</p>
+  <p>My goal is to explore and push the boundaries of AI, leveraging data to create innovative and impactful solutions.</p>
 </div>
 ---
 
