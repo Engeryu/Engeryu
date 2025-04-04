@@ -3,6 +3,7 @@
   <p style="color: white;">I am deeply passionate about science and technology, with a strong dedication to Data Science, particularly in the fields of Artificial Intelligence and Machine Learning research.</p>
   <p>My goal is to explore and push the boundaries of AI, leveraging data to create innovative and impactful solutions.</p>
 </div>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
