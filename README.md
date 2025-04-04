@@ -1,3 +1,5 @@
+![gradient](https://github.com/user-attachments/assets/7a8d6cf6-88c5-41e3-9c8b-b32c7c75008f)
+
 <div style="border: 2px solid #2a2c2e; border-radius: 10px; padding: 20px; background: linear-gradient(90deg, #0d1117, #2a2c2e);">
   <h1 style="color: white;">👋 Hi, I'm Engeryu!</h1>
   <p style="color: white;">I am deeply passionate about science and technology, with a strong dedication to Data Science, particularly in the fields of Artificial Intelligence and Machine Learning research.</p>
@@ -5,6 +7,7 @@
 </div>
 
 ---
+
 
 ## 🛠️ Tech Stack & Skills
 <div style="display: flex; justify-content: space-between;">
