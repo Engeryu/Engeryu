@@ -30,7 +30,7 @@
 ## 📫 Let's Connect!
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-wrap: nowrap;">
-  <div style="text-align: left; width: 50%;">
+  <div style="text-align: left; flex-grow: 1; max-width: 50%;">
     <a href="https://github.com/Engeryu">
       <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
@@ -49,7 +49,7 @@
     <strong>More to come... Stay tuned!</strong> 🚀
   </div>
 
-  <div style="width: 50%; text-align: right;">
+  <div style="text-align: right; flex-grow: 1; max-width: 50%;">
     <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
   </div>
 </div>
