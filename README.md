@@ -27,9 +27,7 @@
 </div>
 
 ---
-
 ## 📫 Let's Connect!
-
 <table style="width:100%;">
   <tr>
     <td style="width:50%; vertical-align: top;">
