@@ -31,7 +31,7 @@
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 50%; vertical-align: top; text-align: left; padding-right: 20px;">
+    <td style="width: 50%; min-width: 50%; vertical-align: top; text-align: left; padding-right: 20px;">
       <a href="https://github.com/Engeryu">
         <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
