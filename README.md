@@ -21,13 +21,13 @@
 
 ---
 ## 📊 GitHub Stats:
-<table style="width: 100%; border-collapse: collapse; align: center">
+<table style="width:100%">
   <tr>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&cache_buster=12345" alt="GitHub Stats" style="width: 100%;" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%;" />
     </td>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_buster=12345" alt="Top Languages" style="width: 100%;" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width:100%;" />
     </td>
   </tr>
 </table>
