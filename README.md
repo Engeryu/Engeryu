@@ -29,7 +29,7 @@
 ---
 ## 📫 Let's Connect!
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; flex-wrap: nowrap;">
   <div style="text-align: left; width: 50%;">
     <a href="https://github.com/Engeryu">
       <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
