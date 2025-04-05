@@ -30,6 +30,10 @@
 ## 📫 Let's Connect!
 
 <table>
+  <colgroup>
+    <col style="width: 50%;">
+    <col style="width: 50%;">
+  </colgroup>
   <tr>
     <td>
       <a href="https://github.com/Engeryu">
