@@ -21,8 +21,10 @@
 
 ---
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&cache_buster=12345)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_buster=12345)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&cache_buster=12345" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_buster=12345" style="width: 49%;" />
+</div>
 
 ---
 ## 📫 Let's Connect!
