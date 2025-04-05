@@ -30,7 +30,7 @@
 ## 📫 Let's Connect!
 <table>
   <tr>
-    <td">
+    <td>
       <a href="https://github.com/Engeryu">
         <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
