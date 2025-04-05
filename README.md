@@ -30,10 +30,6 @@
 ## 📫 Let's Connect!
 
 <table>
-  <colgroup>
-    <col style="width: 50%;">
-    <col style="width: 50%;">
-  </colgroup>
   <tr>
     <td>
       <a href="https://github.com/Engeryu">
@@ -52,6 +48,8 @@
       <i>engeryu</i> <strong>(Click to copy manually)</strong>
       <br />
       <strong>More to come... Stay tuned!</strong> 🚀
+      <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Ajoute du contenu vide pour forcer l'expansion -->
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" />
