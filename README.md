@@ -37,7 +37,7 @@
 ## 📫 Let's Connect!
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="width: 70%; padding-right: 20px;">
+    <td style="width: 50%; padding-right: 20px;">
       <div style="text-align: left; display: inline-block;">
         <a href="https://github.com/Engeryu">
           <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
@@ -57,7 +57,7 @@
         <bold>More to come... Stay tuned!</bold> 🚀
       </div>
     </td>
-    <td style="text-align: right; width: 30%;">
+    <td style="text-align: right; width: 50%;">
       <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
     </td>
   </tr>
