@@ -21,7 +21,8 @@
 
 ---
 ## 📊 GitHub Stats:
-<table width="100%">
+
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <td style="width:50%; text-align:center;">
       <img src="https://github-readme-stats.vercel.app/api?username=Engeryu&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&cache_buster=12345" alt="GitHub Stats" style="width:100%;" />
