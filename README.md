@@ -29,8 +29,8 @@
 ---
 ## 📫 Let's Connect!
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%;">
-  <div style="text-align: left;">
+<div style="width:100%; overflow: hidden;">
+  <div style="float: left; width: 50%; text-align: left;">
     <a href="https://github.com/Engeryu">
       <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
@@ -49,7 +49,7 @@
     <strong>More to come... Stay tuned!</strong> 🚀
   </div>
 
-  <div style="text-align: right;">
+  <div style="float: right; width: 50%; text-align: right;">
     <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
   </div>
 </div>
