@@ -53,6 +53,7 @@
     <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
   </div>
 </div>
+
 ---
 ## 🏆 GitHub Profile Trophy
 <div style="width: 100%; text-align: center;">
