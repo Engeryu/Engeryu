@@ -29,9 +29,9 @@
 ---
 ## 📫 Let's Connect!
 
-<table style="width: 100%;">
+<table style="width:100%;">
   <tr>
-    <td style="width: 50%; text-align: left; vertical-align: top;">
+    <td style="width:50%; vertical-align: top;">
       <a href="https://github.com/Engeryu">
         <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
@@ -49,9 +49,8 @@
       <br />
       <strong>More to come... Stay tuned!</strong> 🚀
     </td>
-    <td style="display: none;"></td> <!-- Colonne invisible qui force l'expansion -->
-    <td style="width: 50%; text-align: right;">
-      <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
+    <td style="width:50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width:100%; height:auto;" />
     </td>
   </tr>
 </table>
