@@ -37,7 +37,7 @@
 ## 📫 Let's Connect!
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="width: 70%; padding-right: 60px;">
+    <td style="width: 70%; padding-right: 20px;">
       <div style="text-align: left; display: inline-block;">
         <a href="https://github.com/Engeryu">
           <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
