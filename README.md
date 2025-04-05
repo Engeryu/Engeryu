@@ -29,9 +29,9 @@
 ---
 ## 📫 Let's Connect!
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td>
+    <td style="width: 60%; min-width: 60%; text-align: left; vertical-align: top;">
       <a href="https://github.com/Engeryu">
         <img src="https://img.shields.io/badge/GitHub-Engeryu-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
       </a>
@@ -48,11 +48,9 @@
       <i>engeryu</i> <strong>(Click to copy manually)</strong>
       <br />
       <strong>More to come... Stay tuned!</strong> 🚀
-      <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Ajoute du contenu vide pour forcer l'expansion -->
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" />
+    <td style="width: 40%; text-align: right;">
+      <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
     </td>
   </tr>
 </table>
