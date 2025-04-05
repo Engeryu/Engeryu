@@ -49,9 +49,8 @@
       <br />
       <strong>More to come... Stay tuned!</strong> 🚀
     </td>
-    <!-- Colonne invisible pour forcer l'expansion -->
-    <td style="width: 20%;"></td>
-    <td style="width: 40%; text-align: right;">
+    <td style="display: none;"></td> <!-- Colonne invisible qui force l'expansion -->
+    <td style="width: 50%; text-align: right;">
       <img src="https://github.com/user-attachments/assets/e2bd9c47-44f0-4541-b182-9cc4a96d8772" alt="Chill Boy" style="max-width: 100%; border-radius: 10px;" />
     </td>
   </tr>
